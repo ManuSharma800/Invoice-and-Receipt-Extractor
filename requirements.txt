@@ -1,0 +1,7 @@
+streamlit
+google-genai==2.33.0
+python-dotenv
+pydantic
+pypdf
+Pillow
+pandas
